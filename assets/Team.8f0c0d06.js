@@ -1,1 +1,0 @@
-import{d as r,i as s,j as a,l,o}from"./vendor.8c64f2f4.js";const d=[a("div",{class:"w-full h-16 border-b border-solid border-gray-100"},null,-1),l(" Team ")];var e=r({setup:r=>(r,a)=>(o(),s("div",null,d))});export{e as default};

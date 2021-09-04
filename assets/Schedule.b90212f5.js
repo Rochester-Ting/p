@@ -1,1 +1,0 @@
-import{d as r,i as s,j as l,l as a,o as d}from"./vendor.8c64f2f4.js";const o=[l("div",{class:"w-full h-16 border-b border-solid border-gray-100"},null,-1),a(" Schedule ")];var e=r({setup:r=>(r,l)=>(d(),s("div",null,o))});export{e as default};
