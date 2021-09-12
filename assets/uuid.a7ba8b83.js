@@ -1,0 +1,1 @@
+const x=()=>{let x=(new Date).getTime();return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,(function(t){const e=(x+16*Math.random())%16|0;return x=Math.floor(x/16),("x"==t?e:3&e|8).toString(16)}))};export{x as g};
